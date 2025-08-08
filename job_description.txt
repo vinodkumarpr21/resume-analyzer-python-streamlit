@@ -1,0 +1,1 @@
+We are looking for a Python Developer with skills in Pandas, NumPy, REST API, SQL, and Streamlit. Experience with machine learning or data science projects is a plus.
