@@ -12,7 +12,7 @@ _Resume Analyzer App is a Streamlit-based web application that analyzes uploaded
 - <a href="#project-structure">Project Structure</a>
 - <a href="#dashboard">Dashboard</a>
 - <a href="#how-to-run-this-project">How to Run This Project</a>
-- <a href="#Future-Improvement">Final Recommendations</a>
+- <a href="#Future-Improvement">Future Improvement</a>
 - <a href="#author--contact">Author & Contact</a>
 
 ---
@@ -104,6 +104,6 @@ python scripts/`streamlit run app.py'
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
 **Vinod Kumar Prajapat**  
-Python Developer  
+Software Developer  
 📧 Email: vinodkumarpr21@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/vinod-kumar-prajapat/) 
